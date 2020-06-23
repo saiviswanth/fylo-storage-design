@@ -1,0 +1,80 @@
+body {
+
+    background-image: url("file:///D:/designs/fylo-data-storage-component-master/images/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-color: hsl(229, 57%, 11%);
+}
+
+
+/* styling for the brand */
+.container-1 {
+  width: 18.5%;
+  margin:15rem 1rem 20rem 15rem;
+  background-color: hsl(235, 56%, 26%);
+  padding: 2rem;
+  border-top-right-radius:37.5%;
+  display: inline-block;
+}
+
+.icons {
+  margin-top: 1.5rem;
+
+}
+
+.file-icon {
+  margin-right: 1rem;
+  background-color: hsl(235, 57%, 11%);
+  padding:0.5rem;
+  border-radius: 25%;
+}
+
+.container-2 {
+  display: inline-block;
+  width: 40%;
+  background-color: hsl(228, 56%, 26%);
+  padding: 1rem 2rem 1rem 2rem;
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+  font-weight: 400;
+  border-radius: 20px;
+  position: relative;
+
+}
+
+.data {
+  font-weight: 700;
+}
+.textbox {
+  font-size: 48px;
+  position: relative;
+  left: 25rem;
+}
+
+.GB-bar {
+  background-image: linear-gradient(to right,hsl(6, 100%, 80%),hsl(335, 100%, 65%) 70%,hsl(229, 57%, 11%) 70%);
+  width: 85%;
+  border-radius: 20px;
+  height: 20px;
+}
+
+.circle {
+  height: 20px;
+  width: 20px;
+  border-radius: 20px;
+  background-color: white;
+  position: relative;
+  left: 18.1rem;
+}
+
+.zero {
+  font-weight: 700;
+}
+
+.thousand {
+   position: absolute;
+   right: 7rem;
+   bottom: 1rem;
+   font-weight: 700;
+
+}
